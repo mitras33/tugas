@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/12/12 04:22:47.000.598,=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/12 04:25:48.000.658,C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.pas=G:\Andi\Delphi\Tugas\TugasEmpat1.pas</Transaction>
+    <Transaction>2019/12/12 04:25:48.000.658,C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.dfm=G:\Andi\Delphi\Tugas\TugasEmpat1.dfm</Transaction>
+    <Transaction>2019/12/12 04:29:17.000.248,=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/12/12 04:29:34.000.479,C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit2.dfm=G:\Andi\Delphi\Tugas\Tugas1.dfm</Transaction>
+    <Transaction>2019/12/12 04:29:34.000.479,C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit2.pas=G:\Andi\Delphi\Tugas\Tugas1.pas</Transaction>
+    <Transaction>2019/12/12 04:58:08.000.769,C:\Users\HP\Documents\Embarcadero\Studio\Projects\Project1.dproj=G:\Andi\Delphi\Tugas\Project1.dproj</Transaction>
+    <Transaction>2019/12/12 05:02:59.000.632,=G:\Andi\Delphi\Tugas\Unit3.pas</Transaction>
+    <Transaction>2019/12/12 05:03:40.000.591,G:\Andi\Delphi\Tugas\Tugas2.pas=G:\Andi\Delphi\Tugas\Unit3.pas</Transaction>
+    <Transaction>2019/12/12 05:03:40.000.591,G:\Andi\Delphi\Tugas\Tugas2.dfm=G:\Andi\Delphi\Tugas\Unit3.dfm</Transaction>
+    <Transaction>2019/12/12 05:30:53.000.863,=G:\Andi\Delphi\Tugas\Unit4.pas</Transaction>
+    <Transaction>2019/12/12 05:31:06.000.354,G:\Andi\Delphi\Tugas\Tugas3.dfm=G:\Andi\Delphi\Tugas\Unit4.dfm</Transaction>
+    <Transaction>2019/12/12 05:31:06.000.354,G:\Andi\Delphi\Tugas\Tugas3.pas=G:\Andi\Delphi\Tugas\Unit4.pas</Transaction>
+    <Transaction>2019/12/13 00:35:27.000.242,=G:\Andi\Delphi\Tugas\Unit5.pas</Transaction>
+    <Transaction>2019/12/13 00:37:24.000.682,G:\Andi\Delphi\Tugas\Unit5.pas=G:\Andi\Delphi\Tugas\Tugas42.pas</Transaction>
+    <Transaction>2019/12/13 00:37:24.000.682,G:\Andi\Delphi\Tugas\Unit5.dfm=G:\Andi\Delphi\Tugas\Tugas42.dfm</Transaction>
+    <Transaction>2019/12/13 01:52:04.000.841,=G:\Andi\Delphi\Tugas\Unit6.pas</Transaction>
+    <Transaction>2019/12/13 01:52:18.000.933,G:\Andi\Delphi\Tugas\Unit6.pas=G:\Andi\Delphi\Tugas\Tugas4_3.pas</Transaction>
+    <Transaction>2019/12/13 01:52:18.000.933,G:\Andi\Delphi\Tugas\Unit6.dfm=G:\Andi\Delphi\Tugas\Tugas4_3.dfm</Transaction>
+    <Transaction>2019/12/13 17:28:52.000.905,=G:\Andi\Delphi\Tugas\Unit1.pas</Transaction>
+    <Transaction>2019/12/13 17:29:28.000.568,G:\Andi\Delphi\Tugas\Unit1.dfm=G:\Andi\Delphi\Tugas\Tugas4_1.dfm</Transaction>
+    <Transaction>2019/12/13 17:29:28.000.568,G:\Andi\Delphi\Tugas\Unit1.pas=G:\Andi\Delphi\Tugas\Tugas4_1.pas</Transaction>
+    <Transaction>2019/12/13 18:27:49.000.133,=G:\Andi\Delphi\Tugas\Unit5.pas</Transaction>
+    <Transaction>2019/12/13 18:28:41.000.700,G:\Andi\Delphi\Tugas\Unit5.dfm=G:\Andi\Delphi\Tugas\Tugas4_2.dfm</Transaction>
+    <Transaction>2019/12/13 18:28:41.000.700,G:\Andi\Delphi\Tugas\Unit5.pas=G:\Andi\Delphi\Tugas\Tugas4_2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
